@@ -4,5 +4,6 @@
   "app_name": "한기솔님 콘텐츠 캘린더",
   "short_name": "한기솔님 콘텐츠 캘린더",
   "icon_char": "솔",
-  "year": 2026
+  "year": 2026,
+  "upcoming_days": 7
 }
